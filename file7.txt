@@ -2,3 +2,5 @@ file 7 line 1
 file 7 line 2
 file7 line 3
 file7 line 4
+file line 5
+file line 6
